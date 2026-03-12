@@ -4,8 +4,9 @@
 
 > Paz, amor e coding.
 
-- **Discord:** @VictorGabriel.dev
 - **GitHub:** [@VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)
+- **Discord:** @VictorGabriel.dev
+- **Telegram:** [@VictorGabriel_Dev](https://t.me/VictorGabriel_Dev)
 
 ---
 
