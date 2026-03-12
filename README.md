@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center"><img src="paz-amor-e-coding.jpg" width="40%" alt="Victor Gabriel"/></p>
 
-<!--
-**VictorGabriel7Dev/VictorGabriel7Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Victor Gabriel 🐧
 
-Here are some ideas to get you started:
+> Paz, amor e coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Discord:** @VictorGabriel.dev
+- **GitHub:** [@VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)
+
+---
+
+<p align="center">
+  <i>Sua cor não se percebe.<br>
+  Suas pétalas não se abrem.<br>
+  Seu nome não está nos livros.<br>
+  É feia. Mas é realmente uma flor.</i><br>
+  — Carlos Drummond de Andrade, A flor e a náusea
+</p>
