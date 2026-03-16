@@ -89,3 +89,16 @@
 ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)
 ![Mercado Livre](https://img.shields.io/badge/-Mercado%20Livre-FFE600?logo=mercadolibre&logoColor=black&style=flat)
 ![Mercado Pago](https://img.shields.io/badge/-Mercado%20Pago-00B1EA?logo=mercadopago&logoColor=white&style=flat)
+
+---
+
+## Projetos
+
+### [Câmbio NovaDax](https://victorgabriel.dev/projetos/cambio-novadax)
+
+Consultor de cotações e custos de envio de criptomoedas via NovaDax, direto no terminal.  
+Calcula cotação atual, taxa de rede e o custo real para comprar e enviar qualquer cripto.
+
+`Python` · `CLI` · `Zero dependências` · `AGPL-3.0`
+
+[📄 Página](https://victorgabriel.dev/projetos/cambio-novadax) · [💻 GitHub](https://github.com/VictorGabriel7Dev/cambio-novadax)
