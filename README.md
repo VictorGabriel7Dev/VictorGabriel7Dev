@@ -102,3 +102,12 @@ Calcula cotação atual, taxa de rede e o custo real para comprar e enviar qualq
 `Python` · `CLI` · `Zero dependências` · `AGPL-3.0`
 
 [📄 Página](https://victorgabriel.dev/projetos/cambio-novadax) · [💻 GitHub](https://github.com/VictorGabriel7Dev/cambio-novadax)
+
+### [Telegram Anti Spam Bot](https://victorgabriel.dev/projetos/telegram-antispam-bot)
+
+Bot de moderação anti-spam para grupos do Telegram.  
+Anti-spam moderation bot for Telegram groups.
+
+`Python` · `Telegram` · `Telethon MTProto` · `AGPL-3.0`
+
+[📄 Página](https://victorgabriel.dev/projetos/telegram-antispam-bot) · [💻 GitHub](https://github.com/VictorGabriel7Dev/telegram-antispam-bot)
