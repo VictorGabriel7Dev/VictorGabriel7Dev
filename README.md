@@ -111,3 +111,11 @@ Anti-spam moderation bot for Telegram groups.
 `Python` · `Telegram` · `Telethon MTProto` · `AGPL-3.0`
 
 [📄 Página](https://victorgabriel.dev/projetos/telegram-antispam-bot) · [💻 GitHub](https://github.com/VictorGabriel7Dev/telegram-antispam-bot)
+
+### [WebScraper GitHub User](https://victorgabriel.dev/projetos/webscraper-github-user)
+
+Exibe os repositórios favoritados (★) e a lista de usuários seguidos de qualquer perfil do GitHub, direto no terminal — sem token, sem API, sem dependências externas.
+
+`Python` · `CLI` · `Web Scraping` · `Zero dependências` · `AGPL-3.0`
+
+[📄 Página](https://victorgabriel.dev/projetos/webscraper-github-user) · [💻 GitHub](https://github.com/VictorGabriel7Dev/webscraper-github-user)
