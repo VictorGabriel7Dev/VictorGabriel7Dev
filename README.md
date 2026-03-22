@@ -22,6 +22,10 @@
 
 ---
 
+[InovaMind.dev](https://inovamind.dev) | [ThalesFernandes.dev](https://thalesfernandes.dev)
+
+---
+
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
