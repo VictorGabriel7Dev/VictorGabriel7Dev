@@ -22,7 +22,7 @@
 
 ---
 
-[InovaMind.dev](https://inovamind.dev) | [ThalesFernandes.dev](https://thalesfernandes.dev)
+[Inovamind.dev](https://inovamind.dev) | [ThalesFernandes.dev](https://thalesfernandes.dev)
 
 ---
 
