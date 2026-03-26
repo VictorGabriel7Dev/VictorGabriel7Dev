@@ -2,6 +2,7 @@
 
 # Victor Gabriel 🐧
 
+> Infraestrutura | Back-end | Dados | IA | Linux Lover  
 > Paz, amor e coding.
 
 - [https://victorgabriel.dev](https://victorgabriel.dev)
