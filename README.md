@@ -5,6 +5,7 @@
 > Paz, amor e coding.
 
 - [https://victorgabriel.dev](https://victorgabriel.dev)
+- [https://victorgabriel.dev.br](https://victorgabriel.dev.br)
 - **GitHub:** [@VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)
 - **LinkedIn:** [in/victor-gabriel-182a763b9](https://linkedin.com/in/victor-gabriel-182a763b9/)
 - **Discord:** @VictorGabriel.dev
