@@ -2,7 +2,7 @@
 
 # Victor Gabriel 🐧
 
-> Linux | Python | Back-end | API | Infra | Automação | Dados | IA  
+> Linux | Python | SQL | IA | API | Back-end | Infra | Automação  
 > Paz, amor e coding.
 
 - [https://victorgabriel.dev](https://victorgabriel.dev)
