@@ -2,7 +2,7 @@
 
 # Victor Gabriel 🐧
 
-> Infraestrutura | Back-end | Dados | IA | Linux Lover  
+> Linux | Python | Back-end | API | Infra | Automação | Dados | IA
 > Paz, amor e coding.
 
 - [https://victorgabriel.dev](https://victorgabriel.dev)
@@ -12,6 +12,10 @@
 - **Discord:** @VictorGabriel.dev
 - **Telegram:** [@VictorGabriel_Dev](https://t.me/VictorGabriel_Dev)
 - **E-mail:** [contato@victorgabriel.dev](mailto:contato@victorgabriel.dev)
+
+---
+
+Desenvolvedor back-end, infraestrutura Linux, administrador de servidor dedicado e engenheiro de IA. Especializado em Python, Debian, API, SQL, automação de tarefas, tratamento de dados e engenharia de Inteligência Artificial.
 
 ---
 
@@ -82,6 +86,9 @@
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat)
 ![Cron](https://img.shields.io/badge/-Cron-4EAA25?logo=gnubash&logoColor=white&style=flat)
 ![Agno](https://img.shields.io/badge/-Agno-000000?logo=anthropic&logoColor=white&style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)
+![Twilio](https://img.shields.io/badge/-Twilio-F22F46?logo=twilio&logoColor=white&style=flat)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white&style=flat)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat)
 ![iptables](https://img.shields.io/badge/-iptables-333333?logo=linux&logoColor=white&style=flat)
@@ -89,6 +96,7 @@
 ![Tor](https://img.shields.io/badge/-Tor-7D4698?logo=torproject&logoColor=white&style=flat)
 ![Onion](https://img.shields.io/badge/-Onion-4A2060?logo=torproject&logoColor=white&style=flat)
 ![SSH](https://img.shields.io/badge/-SSH-333333?logo=openssh&logoColor=white&style=flat)
+![SFTP](https://img.shields.io/badge/-SFTP-333333?logo=opensftp&logoColor=white&style=flat)
 ![VNC](https://img.shields.io/badge/-VNC-333333?logoColor=white&style=flat)
 ![RDP](https://img.shields.io/badge/-RDP-0078D4?logo=windows&logoColor=white&style=flat)
 ![Netdata](https://img.shields.io/badge/-Netdata-00AB44?logo=netdata&logoColor=white&style=flat)
