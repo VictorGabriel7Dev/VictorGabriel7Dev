@@ -145,3 +145,11 @@ Exibe os repositórios favoritados (★) e a lista de usuários seguidos de qual
 `Python` · `CLI` · `Web Scraping` · `Zero dependências` · `AGPL-3.0`
 
 [📄 Página](https://victorgabriel.dev/projetos/webscraper-github-user) · [💻 GitHub](https://github.com/VictorGabriel7Dev/webscraper-github-user)
+
+### [OpenFinance Dashboard](https://victorgabriel.dev/projetos/OpenFinance-Dashboard)
+
+Consolidador financeiro multi-banco em C++ para Linux e Windows que exibe contas, cartões de crédito e autorizações Pix de todos os bancos vinculados via OpenFinance em uma única tela desktop.
+
+`C++` · `OpenFinance` · `Linux` · `Windows` · `Desktop`
+
+[📄 Página](https://victorgabriel.dev/projetos/OpenFinance-Dashboard) · [💻 GitHub](https://github.com/VictorGabriel7Dev/OpenFinance-Dashboard)
