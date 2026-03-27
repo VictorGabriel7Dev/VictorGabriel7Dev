@@ -15,7 +15,8 @@
 
 ---
 
-Desenvolvedor back-end, infraestrutura Linux, administrador de servidor dedicado e engenheiro de IA. Especializado em Python, Debian, API, SQL, automação de tarefas, tratamento de dados e engenharia de Inteligência Artificial.
+Desenvolvedor back-end, infraestrutura Linux, administrador de servidor dedicado e engenheiro de IA.  
+Especializado em Python, Debian, API, SQL, automação de tarefas, tratamento de dados e engenharia de Inteligência Artificial.
 
 ---
 
