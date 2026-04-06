@@ -30,7 +30,7 @@ Especializado em Python, Debian, API, SQL, automação de tarefas, tratamento de
 
 ---
 
-[Inovamind.dev](https://inovamind.dev) | [ThalesFernandes.dev](https://thalesfernandes.dev)
+[Inovamind.dev](https://inovamind.dev) | [Inovamind.dev.br](https://inovamind.dev.br) | [ThalesFernandes.dev](https://thalesfernandes.dev) | [ThalesFernandes.dev.br](https://thalesfernandes.dev.br)
 
 ---
 
