@@ -14,9 +14,13 @@
 - **E-mail:** [contato@victorgabriel.dev](mailto:contato@victorgabriel.dev)
 
 ---
-
-Desenvolvedor back-end, infraestrutura Linux, administrador de servidor dedicado e engenheiro de IA.  
-Especializado em Python, Debian, API, SQL, automação de tarefas, tratamento de dados e engenharia de Inteligência Artificial.
+Desenvolvedor back-end, infraestrutura Linux, administrador de servidor dedicado, engenheiro de dados e engenheiro de IA.  
+Especializado em Python, Debian, API, SQL, automação, engenharia de dados e engenharia de inteligência artificial.  
+  
+23 anos de desenvolvimento web.  
+16 anos de usuário Fedora Linux.  
+14 anos de desenvolvimento backend.  
+11 anos de engenharia de dados.
 
 ---
 
