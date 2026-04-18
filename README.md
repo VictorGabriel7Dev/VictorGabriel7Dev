@@ -2,7 +2,7 @@
 
 # Victor Gabriel 🐧
 
-> DevOps | SRE | Infra | Linux | Back-end | Python | PostgreSQL | IA/RAG
+> DevOps | SRE | Infra | Linux | Back-end | Python | PostgreSQL | IA/RAG  
 > Paz, amor e coding.
 
 - [https://victorgabriel.dev](https://victorgabriel.dev)
