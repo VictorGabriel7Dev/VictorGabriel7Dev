@@ -11,6 +11,7 @@
 - **LinkedIn:** [in/victorgabriel-dev](https://www.linkedin.com/in/victorgabriel-dev)
 - **Discord:** @VictorGabriel.dev
 - **Telegram:** [@VictorGabriel_Dev](https://t.me/VictorGabriel_Dev)
+- **Instagram:** [@VictorGabriel_Dev](https://www.instagram.com/VictorGabriel_Dev)
 - **E-mail:** [contato@victorgabriel.dev](mailto:contato@victorgabriel.dev)
 
 ---
