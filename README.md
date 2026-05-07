@@ -2,8 +2,7 @@
 
 # Victor Gabriel 🐧
 
-> DevOps | SRE | Infra | Linux | Back-end | Python | PostgreSQL | IA/RAG | Claude Code  
-> Paz, amor e coding.
+> Engenheiro de Software | Engenheiro de IA | Engenheiro de Dados | Engenheiro de Segurança | Especialista Linux
 
 - [https://victorgabriel.dev](https://victorgabriel.dev)
 - [https://victorgabriel.dev.br](https://victorgabriel.dev.br)
@@ -15,13 +14,7 @@
 - **E-mail:** [contato@victorgabriel.dev](mailto:contato@victorgabriel.dev)
 
 ---
-Desenvolvedor back-end, infraestrutura Linux, administrador de servidor dedicado, engenheiro de dados e engenheiro de IA.  
-Especializado em Python, Debian, API, SQL, automação, engenharia de dados e engenharia de inteligência artificial.  
-  
-23 anos de desenvolvimento web.  
-16 anos de usuário Fedora Linux.  
-14 anos de desenvolvimento backend.  
-11 anos de engenharia de dados.
+Atuo em cinco frentes integradas da engenharia: software, dados, sistemas, segurança e IA. Acumulo 23 anos de prática sustentados por 18 anos de imersão diária no ecossistema Linux. Projeto e implemento sistemas inteiros: do código da aplicação ao servidor que a hospeda. Do esquema do banco ao firewall que o protege. Dos pipelines de automação à orquestração de modelos. Trabalho com auditoria recorrente como prática rotineira, em que cada decisão vira regra documentada, cada incidente vira postmortem que protege o futuro e cada esquema é versionado e idempotente. Tenho a convicção operacional de que documentação, código, dados e operação devem caminhar como uma única narrativa coerente, em que tudo que está documentado precisa estar rigorosamente aplicado e tudo que está aplicado precisa estar rigorosamente documentado.
 
 ---
 
