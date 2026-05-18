@@ -29,7 +29,7 @@ Atuo em cinco frentes integradas da engenharia: software, dados, sistemas, segur
 
 ---
 
-[Inovamind.dev](https://inovamind.dev) | [Inovamind.dev.br](https://inovamind.dev.br) | [ThalesFernandes.dev](https://thalesfernandes.dev) | [ThalesFernandes.dev.br](https://thalesfernandes.dev.br)
+[Inovamind.dev](https://inovamind.dev) | [Inovamind.dev.br](https://inovamind.dev.br) | [ThalesFernandes.dev](https://thalesfernandes.dev) | [ThalesFernandes.dev.br](https://thalesfernandes.dev.br) | [Itabiraeregiao.com.br](https://itabiraeregiao.com.br)
 
 ---
 
