@@ -5,7 +5,6 @@
 > Engenheiro de Software | Engenheiro de IA | Engenheiro de Dados | Engenheiro de Segurança | Especialista Linux
 
 - [https://victorgabriel.dev](https://victorgabriel.dev)
-- [https://victorgabriel.dev.br](https://victorgabriel.dev.br)
 - **GitHub:** [@VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)
 - **LinkedIn:** [in/victorgabriel-dev](https://www.linkedin.com/in/victorgabriel-dev)
 - **Discord:** @VictorGabriel.dev
@@ -29,7 +28,7 @@ Atuo em cinco frentes integradas da engenharia: software, dados, sistemas, segur
 
 ---
 
-[Inovamind.dev](https://inovamind.dev) | [Inovamind.dev.br](https://inovamind.dev.br) | [ThalesFernandes.dev](https://thalesfernandes.dev) | [ThalesFernandes.dev.br](https://thalesfernandes.dev.br) | [Itabiraeregiao.com.br](https://itabiraeregiao.com.br)
+[Inovamind.dev](https://inovamind.dev) | [ThalesFernandes.dev](https://thalesfernandes.dev) | [Itabiraeregiao.com.br](https://itabiraeregiao.com.br)
 
 ---
 
