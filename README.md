@@ -180,7 +180,7 @@ Atuo em cinco frentes integradas da engenharia: software, dados, sistemas, segur
 
 ### [Imóveis Lucas](https://www.imoveislucas.com.br)
 
-Site institucional + catálogo de imóveis de alto padrão — casas em condomínio em Lagoa Santa (MG) e apartamentos em São Paulo (Pinheiros, Real Parque, Santo Amaro). SPA em React com backend próprio (FastAPI + PostgreSQL), painel administrativo, autenticação segura (Argon2id + JWT ES256) e infraestrutura em Nginx + Cloudflare. Desenvolvido na Inovamind.
+Site e catálogo de imóveis de alto padrão — casas em condomínio em Lagoa Santa (MG) e apartamentos em São Paulo — com painel administrativo próprio para gerenciar os anúncios. Desenvolvido na Inovamind.
 
 `React` · `FastAPI` · `PostgreSQL` · `Nginx` · `Cloudflare`
 
