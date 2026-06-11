@@ -185,6 +185,14 @@ Site e catálogo de imóveis de alto padrão - casas em condomínio em Lagoa San
 
 [🌐 imoveislucas.com.br](https://www.imoveislucas.com.br)
 
+### [Itabira e Região](https://itabiraeregiao.com.br)
+
+Portal que reúne, em um só lugar e atualizado automaticamente, as notícias publicadas pelos veículos de Itabira (MG) e região - com espaço para os leitores sugerirem pautas. Desenvolvido na Inovamind.
+
+`Python` · `FastAPI` · `PostgreSQL` · `RSS/Scraping` · `Nginx` · `Cloudflare`
+
+[🌐 itabiraeregiao.com.br](https://itabiraeregiao.com.br)
+
 ---
 
 ## Projetos
