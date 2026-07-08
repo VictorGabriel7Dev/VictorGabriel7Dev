@@ -29,7 +29,7 @@ Atuo em cinco frentes integradas da engenharia: software, dados, sistemas, segur
 
 ---
 
-[Inovamind.dev](https://inovamind.dev) | [ThalesFernandes.dev](https://thalesfernandes.dev) | [Itabiraeregiao.com.br](https://itabiraeregiao.com.br) | [ImoveisLucas.com.br](https://imoveislucas.com.br)
+[Inovamind.dev](https://inovamind.dev) | [ThalesFernandes.dev](https://thalesfernandes.dev) | [Itabiraeregiao.com.br](https://itabiraeregiao.com.br) | [ImoveisLucas.com.br](https://imoveislucas.com.br) | [BikeManiaItabira.com.br](https://bikemaniaitabira.com.br)
 
 ---
 
@@ -208,6 +208,14 @@ Portal que reúne, em um só lugar e atualizado automaticamente, as notícias pu
 `Python` · `FastAPI` · `PostgreSQL` · `RSS/Scraping` · `Nginx` · `Cloudflare`
 
 [🌐 itabiraeregiao.com.br](https://itabiraeregiao.com.br)
+
+### [Bike Mania Itabira](https://bikemaniaitabira.com.br)
+
+Loja online da Bike Mania Itabira (MG) — bicicletas, peças e acessórios de ciclismo — com catálogo, carrinho, checkout via Mercado Pago, área do cliente e painel administrativo próprio. Desenvolvido na Inovamind.
+
+`FastAPI` · `Jinja2` · `PostgreSQL` · `Mercado Pago` · `Nginx` · `Cloudflare`
+
+[🌐 bikemaniaitabira.com.br](https://bikemaniaitabira.com.br)
 
 ---
 
