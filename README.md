@@ -2,7 +2,7 @@
 
 # Victor Gabriel 🐧
 
-> Engenheiro de Software | Engenheiro de IA | Engenheiro de Dados | Engenheiro de Segurança | Especialista Linux
+> Arquiteto de Soluções & Engenheiro Full-Cycle | Software · IA · Infra · Segurança | Especialista Linux
 
 - [https://victorgabriel.dev](https://victorgabriel.dev)
 - **GitHub:** [@VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)
@@ -15,7 +15,7 @@
 
 ---
 
-Atuo em cinco frentes integradas da engenharia: software, dados, sistemas, segurança e IA. Acumulo 23 anos de prática sustentados por 18 anos de imersão diária no ecossistema Linux. Projeto e implemento sistemas inteiros: do código da aplicação ao servidor que a hospeda. Do esquema do banco ao firewall que o protege. Dos pipelines de automação à orquestração de modelos. Trabalho com auditoria recorrente como prática rotineira, em que cada decisão vira regra documentada, cada incidente vira postmortem que protege o futuro e cada esquema é versionado e idempotente. Tenho a convicção operacional de que documentação, código, dados e operação devem caminhar como uma única narrativa coerente, em que tudo que está documentado precisa estar rigorosamente aplicado e tudo que está aplicado precisa estar rigorosamente documentado.
+Como arquiteto de soluções, atuo em cinco frentes integradas da engenharia: software, IA, infra, segurança e dados. Acumulo 23 anos de prática sustentados por 18 anos de imersão diária no ecossistema Linux. Como engenheiro full-cycle, projeto e implemento sistemas inteiros: do código da aplicação ao servidor que a hospeda, do esquema do banco ao firewall que o protege, dos pipelines de automação à orquestração de modelos. Trabalho com auditoria recorrente como prática rotineira, em que cada decisão vira regra documentada, cada incidente vira postmortem que protege o futuro e cada esquema é versionado e idempotente. Carrego a convicção operacional de que documentação, código, dados e operação devem caminhar como uma única narrativa coerente, em que tudo que está documentado precisa estar rigorosamente aplicado e tudo que está aplicado precisa estar rigorosamente documentado.
 
 ---
 
