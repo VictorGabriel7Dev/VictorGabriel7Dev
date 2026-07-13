@@ -213,7 +213,7 @@ Portal que reúne, em um só lugar e atualizado automaticamente, as notícias pu
 
 Loja online da Bike Mania Itabira (MG) — bicicletas, peças e acessórios de ciclismo — com catálogo, carrinho, área do cliente e painel administrativo próprio. Desenvolvido na Inovamind.
 
-`FastAPI` · `Jinja2` · `PostgreSQL` · `Nginx` · `Cloudflare`
+`Python` · `FastAPI` · `Jinja2` · `PostgreSQL` · `Nginx` · `Cloudflare`
 
 [🌐 bikemaniaitabira.com.br](https://bikemaniaitabira.com.br)
 
