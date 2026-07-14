@@ -29,7 +29,7 @@ Como arquiteto de soluções, atuo em cinco frentes integradas da engenharia: so
 
 ---
 
-[Inovamind.dev](https://inovamind.dev) | [ThalesFernandes.dev](https://thalesfernandes.dev) | [Itabiraeregiao.com.br](https://itabiraeregiao.com.br) | [ImoveisLucas.com.br](https://imoveislucas.com.br) | [BikeManiaItabira.com.br](https://bikemaniaitabira.com.br)
+[Inovamind.dev](https://inovamind.dev) | [ThalesFernandes.dev](https://thalesfernandes.dev) | [Itabiraeregiao.com.br](https://itabiraeregiao.com.br) | [ImoveisLucas.com.br](https://imoveislucas.com.br) | [BikeManiaItabira.com.br](https://bikemaniaitabira.com.br) | [NexFert.com.br](https://nexfert.com.br)
 
 ---
 
@@ -216,6 +216,14 @@ Loja online da Bike Mania Itabira (MG) — bicicletas, peças e acessórios de c
 `Python` · `FastAPI` · `Jinja2` · `PostgreSQL` · `Nginx` · `Cloudflare`
 
 [🌐 bikemaniaitabira.com.br](https://bikemaniaitabira.com.br)
+
+### [NexFert](https://nexfert.com.br)
+
+Plataforma logtech do agro — marketplace que conecta quem tem carga a quem tem caminhão: cotação aberta, rastreamento ao vivo e entrega confirmada por QR. Site institucional no ar; apps nativos (Android/iOS) e painel/API em construção. Desenvolvido na Inovamind.
+
+`Kotlin` · `Swift` · `Python` · `FastAPI` · `PostgreSQL` · `Nginx` · `Cloudflare`
+
+[🌐 nexfert.com.br](https://nexfert.com.br)
 
 ---
 
