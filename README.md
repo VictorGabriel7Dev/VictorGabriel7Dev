@@ -7,7 +7,7 @@
 - [https://victorgabriel.dev](https://victorgabriel.dev)
 - **GitHub:** [@VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)
 - **LinkedIn:** [in/victorgabriel-dev](https://www.linkedin.com/in/victorgabriel-dev)
-- **WhatsApp:** @VictorGabriel_dev
+- **WhatsApp:** [@VictorGabriel_Dev](https://wa.me/@VictorGabriel_Dev)
 - **Discord:** @VictorGabriel.dev
 - **Telegram:** [@VictorGabriel_Dev](https://t.me/VictorGabriel_Dev)
 - **Instagram:** [@VictorGabriel_Dev](https://www.instagram.com/VictorGabriel_Dev)
