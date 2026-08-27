@@ -23,7 +23,8 @@ Como arquiteto de soluções, atuo em cinco frentes integradas da engenharia: so
   <i>Sua cor não se percebe.<br>
   Suas pétalas não se abrem.<br>
   Seu nome não está nos livros.<br>
-  É feia. Mas é realmente uma flor.</i><br> - Carlos Drummond de Andrade, A flor e a náusea
+  É feia. Mas é realmente uma flor.</i><br>
+  Carlos Drummond de Andrade, A flor e a náusea
 </p>
 
 ---
@@ -238,7 +239,7 @@ Como arquiteto de soluções, atuo em cinco frentes integradas da engenharia: so
 
 ### [Imóveis Lucas](https://www.imoveislucas.com.br)
 
-Site e catálogo de imóveis de alto padrão - casas em condomínio em Lagoa Santa (MG) e apartamentos em São Paulo - com painel administrativo próprio para gerenciar os anúncios. Desenvolvido na Inovamind.
+Site e catálogo de imóveis de alto padrão: casas em condomínio em Lagoa Santa (MG) e apartamentos em São Paulo, com painel administrativo próprio para gerenciar os anúncios. Desenvolvido na Inovamind.
 
 `React` · `FastAPI` · `PostgreSQL` · `Nginx` · `Cloudflare`
 
@@ -246,7 +247,7 @@ Site e catálogo de imóveis de alto padrão - casas em condomínio em Lagoa San
 
 ### [Itabira e Região](https://itabiraeregiao.com.br)
 
-Portal que reúne, em um só lugar e atualizado automaticamente, as notícias publicadas pelos veículos de Itabira (MG) e região - com espaço para os leitores sugerirem pautas. Desenvolvido na Inovamind.
+Portal que reúne, em um só lugar e atualizado automaticamente, as notícias publicadas pelos veículos de Itabira (MG) e região, com espaço para os leitores sugerirem pautas. Desenvolvido na Inovamind.
 
 `Python` · `FastAPI` · `PostgreSQL` · `RSS/Scraping` · `Nginx` · `Cloudflare`
 
@@ -254,7 +255,7 @@ Portal que reúne, em um só lugar e atualizado automaticamente, as notícias pu
 
 ### [Bike Mania Itabira](https://bikemaniaitabira.com.br)
 
-Loja online da Bike Mania Itabira (MG) - bicicletas, peças e acessórios de ciclismo - com catálogo, carrinho, área do cliente e painel administrativo próprio. Desenvolvido na Inovamind.
+Loja online da Bike Mania Itabira (MG): bicicletas, peças e acessórios de ciclismo, com catálogo, carrinho, área do cliente e painel administrativo próprio. Desenvolvido na Inovamind.
 
 `Python` · `FastAPI` · `Jinja2` · `PostgreSQL` · `Nginx` · `Cloudflare`
 
@@ -262,7 +263,7 @@ Loja online da Bike Mania Itabira (MG) - bicicletas, peças e acessórios de cic
 
 ### [NexFert](https://nexfert.com.br)
 
-Plataforma logtech do agro - marketplace que conecta quem tem carga a quem tem caminhão: cotação aberta, rastreamento ao vivo e entrega confirmada por QR. Site institucional no ar; apps nativos (Android/iOS) e painel/API em construção. Desenvolvido na Inovamind.
+Plataforma logtech do agro: marketplace que conecta quem tem carga a quem tem caminhão, com cotação aberta, rastreamento ao vivo e entrega confirmada por QR. Site institucional no ar; apps nativos (Android/iOS) e painel/API em construção. Desenvolvido na Inovamind.
 
 `Kotlin` · `Swift` · `Python` · `FastAPI` · `PostgreSQL` · `Nginx` · `Cloudflare`
 
@@ -292,7 +293,7 @@ Anti-spam moderation bot for Telegram groups.
 
 ### [WebScraper GitHub User](https://victorgabriel.dev/projetos/webscraper-github-user)
 
-Exibe os repositórios favoritados (★) e a lista de usuários seguidos de qualquer perfil do GitHub, direto no terminal - sem token, sem API, sem dependências externas.
+Exibe os repositórios favoritados (★) e a lista de usuários seguidos de qualquer perfil do GitHub, direto no terminal, sem token, sem API, sem dependências externas.
 
 `Python` · `CLI` · `Web Scraping` · `Zero dependências` · `AGPL-3.0`
 
