@@ -29,10 +29,6 @@ Como arquiteto de soluções, atuo em cinco frentes integradas da engenharia: so
 
 ---
 
-[Inovamind.dev](https://inovamind.dev) | [ThalesFernandes.dev](https://thalesfernandes.dev) | [Itabiraeregiao.com.br](https://itabiraeregiao.com.br) | [ImoveisLucas.com.br](https://imoveislucas.com.br) | [BikeManiaItabira.com.br](https://bikemaniaitabira.com.br) | [NexFert.com.br](https://nexfert.com.br)
-
----
-
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat)
@@ -247,6 +243,8 @@ Site e catálogo de imóveis de alto padrão: casas em condomínio em Lagoa Sant
 
 `React` · `FastAPI` · `PostgreSQL` · `Nginx` · `Cloudflare`
 
+[🌐 imoveislucas.com.br](https://www.imoveislucas.com.br)
+
 </td>
 <td width="50%" valign="top">
 
@@ -255,6 +253,8 @@ Site e catálogo de imóveis de alto padrão: casas em condomínio em Lagoa Sant
 Portal que reúne, em um só lugar e atualizado automaticamente, as notícias publicadas pelos veículos de Itabira (MG) e região, com espaço para os leitores sugerirem pautas. Desenvolvido na Inovamind.
 
 `Python` · `FastAPI` · `PostgreSQL` · `RSS/Scraping` · `Nginx` · `Cloudflare`
+
+[🌐 itabiraeregiao.com.br](https://itabiraeregiao.com.br)
 
 </td>
 </tr>
@@ -267,6 +267,8 @@ Loja online da Bike Mania Itabira (MG): bicicletas, peças e acessórios de cicl
 
 `Python` · `FastAPI` · `Jinja2` · `PostgreSQL` · `Nginx` · `Cloudflare`
 
+[🌐 bikemaniaitabira.com.br](https://bikemaniaitabira.com.br)
+
 </td>
 <td width="50%" valign="top">
 
@@ -275,6 +277,32 @@ Loja online da Bike Mania Itabira (MG): bicicletas, peças e acessórios de cicl
 Plataforma logtech do agro: marketplace que conecta quem tem carga a quem tem caminhão, com cotação aberta, rastreamento ao vivo e entrega confirmada por QR. Site institucional no ar; apps nativos (Android/iOS) e painel/API em construção. Desenvolvido na Inovamind.
 
 `Kotlin` · `Swift` · `Python` · `FastAPI` · `PostgreSQL` · `Nginx` · `Cloudflare`
+
+[🌐 nexfert.com.br](https://nexfert.com.br)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Inovamind](https://inovamind.dev)**
+
+Site da Inovamind, consultoria de automação e IA para pequenas e médias empresas: funcionários virtuais 24/7, processos otimizados e integrações sob medida.
+
+`Python` · `FastAPI` · `Jinja2` · `PostgreSQL` · `Nginx` · `Cloudflare`
+
+[🌐 inovamind.dev](https://inovamind.dev)
+
+</td>
+<td width="50%" valign="top">
+
+**[Thales Fernandes](https://thalesfernandes.dev)**
+
+Portfólio de Thales Fernandes, desenvolvedor: código limpo e soluções reais, com Python, Java e SQL.
+
+`HTML` · `CSS` · `JavaScript` · `Nginx` · `Cloudflare`
+
+[🌐 thalesfernandes.dev](https://thalesfernandes.dev)
 
 </td>
 </tr>
