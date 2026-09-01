@@ -243,7 +243,7 @@ Site e catálogo de imóveis de alto padrão: casas em condomínio em Lagoa Sant
 
 `React` · `FastAPI` · `PostgreSQL` · `Nginx` · `Cloudflare`
 
-[🌐 imoveislucas.com.br](https://www.imoveislucas.com.br)
+[🌐 www.imoveislucas.com.br](https://www.imoveislucas.com.br)
 
 </td>
 <td width="50%" valign="top">
@@ -285,13 +285,13 @@ Plataforma logtech do agro: marketplace que conecta quem tem carga a quem tem ca
 <tr>
 <td width="50%" valign="top">
 
-**[Inovamind](https://inovamind.dev)**
+**[Inovamind](https://www.inovamind.dev)**
 
 Site da Inovamind, consultoria de automação e IA para pequenas e médias empresas: funcionários virtuais 24/7, processos otimizados e integrações sob medida.
 
 `Python` · `FastAPI` · `Jinja2` · `PostgreSQL` · `Nginx` · `Cloudflare`
 
-[🌐 inovamind.dev](https://inovamind.dev)
+[🌐 www.inovamind.dev](https://www.inovamind.dev)
 
 </td>
 <td width="50%" valign="top">
