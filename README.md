@@ -8,7 +8,7 @@
 - **GitHub:** [@VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)
 - **LinkedIn:** [in/victorgabriel-dev](https://www.linkedin.com/in/victorgabriel-dev)
 - **WhatsApp:** [@VictorGabriel_Dev](https://wa.me/@VictorGabriel_Dev)
-- **Discord:** @VictorGabriel.dev
+- **Discord:** [@VictorGabriel.dev](https://discord.com/users/1481407654458036265)
 - **Telegram:** [@VictorGabriel_Dev](https://t.me/VictorGabriel_Dev)
 - **Instagram:** [@VictorGabriel_Dev](https://www.instagram.com/VictorGabriel_Dev)
 - **E-mail:** [contato@victorgabriel.dev](mailto:contato@victorgabriel.dev)
