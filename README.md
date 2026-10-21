@@ -4,6 +4,8 @@
 
 > Arquiteto de Soluções & Engenheiro Full-Cycle | Software · IA · Infra · Segurança | Especialista Linux
 
+<p align="center"><a href="https://hub.xerj.org/contributors/VictorGabriel7Dev"><img src="https://hub.xerj.org/contributors/VictorGabriel7Dev/badge.svg" alt="XERJ Corpus Hub: contributor"></a></p>
+
 - [https://victorgabriel.dev](https://victorgabriel.dev)
 - **GitHub:** [@VictorGabriel7Dev](https://github.com/VictorGabriel7Dev)
 - **LinkedIn:** [in/victorgabriel-dev](https://www.linkedin.com/in/victorgabriel-dev)
