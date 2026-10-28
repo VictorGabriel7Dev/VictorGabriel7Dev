@@ -328,13 +328,13 @@ Portfólio de Thales Fernandes, desenvolvedor: código limpo e soluções reais,
 <tr>
 <td width="50%" valign="top">
 
-**[Câmbio NovaDax](https://victorgabriel.dev/projetos/cambio-novadax)**
+**[Pixel Prop Builder](https://victorgabriel.dev/projetos/build.prop)**
 
-Consultor de cotações e custos de envio de criptomoedas via NovaDax, direto no terminal. Calcula cotação atual, taxa de rede e o custo real para comprar e enviar qualquer cripto.
+Acervo navegável e atualizado automaticamente do `build.prop` completo de cada Pixel, extraído direto das imagens OTA oficiais do Google. Cada aparelho tem seu `.prop` versionado no repositório e publicado como asset de release.
 
-`Python` · `CLI` · `Zero dependências` · `AGPL-3.0`
+`Shell` · `Android` · `Pixel` · `GPL-3.0`
 
-[📄 Página](https://victorgabriel.dev/projetos/cambio-novadax) · [💻 GitHub](https://github.com/VictorGabriel7Dev/cambio-novadax)
+[📄 Página](https://victorgabriel.dev/projetos/build.prop) · [💻 GitHub](https://github.com/VictorGabriel7Dev/build.prop)
 
 </td>
 <td width="50%" valign="top">
