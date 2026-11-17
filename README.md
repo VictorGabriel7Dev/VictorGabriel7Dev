@@ -339,6 +339,19 @@ Acervo navegável e atualizado automaticamente do `build.prop` completo de cada 
 </td>
 <td width="50%" valign="top">
 
+**[MTProto Store](https://victorgabriel.dev/projetos/mtproto-store)**
+
+Usa o Telegram como armazenamento de objetos ilimitado e fragmentado, sobre MTProto nativo, num único binário Go autossuficiente. Login por conta de usuário, uploads em chunks num canal privado, sem API de bot.
+
+`Go` · `MTProto` · `CLI` · `Static binary` · `AGPL-3.0`
+
+[📄 Página](https://victorgabriel.dev/projetos/mtproto-store) · [💻 GitHub](https://github.com/VictorGabriel7Dev/mtproto-store)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[Telegram Anti Spam Bot](https://victorgabriel.dev/projetos/telegram-antispam-bot)**
 
 Bot de moderação anti-spam para grupos do Telegram. Anti-spam moderation bot for Telegram groups.
@@ -348,8 +361,6 @@ Bot de moderação anti-spam para grupos do Telegram. Anti-spam moderation bot f
 [📄 Página](https://victorgabriel.dev/projetos/telegram-antispam-bot) · [💻 GitHub](https://github.com/VictorGabriel7Dev/telegram-antispam-bot)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[WebScraper GitHub User](https://victorgabriel.dev/projetos/webscraper-github-user)**
@@ -361,6 +372,8 @@ Exibe os repositórios favoritados (★) e a lista de usuários seguidos de qual
 [📄 Página](https://victorgabriel.dev/projetos/webscraper-github-user) · [💻 GitHub](https://github.com/VictorGabriel7Dev/webscraper-github-user)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[OpenFinance Dashboard](https://victorgabriel.dev/projetos/OpenFinance-Dashboard)**
@@ -370,19 +383,6 @@ Consolidador financeiro multi-banco em C++ para Linux e Windows que exibe contas
 `C++` · `OpenFinance` · `Linux` · `Windows` · `Desktop`
 
 [📄 Página](https://victorgabriel.dev/projetos/OpenFinance-Dashboard) · [💻 GitHub](https://github.com/VictorGabriel7Dev/OpenFinance-Dashboard)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[mtproto-store](https://victorgabriel.dev/projetos/mtproto-store)**
-
-Usa o Telegram como armazenamento de objetos ilimitado e fragmentado, sobre MTProto nativo, num único binário Go autossuficiente. Login por conta de usuário, uploads em chunks num canal privado, sem API de bot.
-
-`Go` · `MTProto` · `CLI` · `Static binary` · `AGPL-3.0`
-
-[📄 Página](https://victorgabriel.dev/projetos/mtproto-store) · [💻 GitHub](https://github.com/VictorGabriel7Dev/mtproto-store)
 
 </td>
 <td width="50%" valign="top">
