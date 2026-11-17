@@ -373,4 +373,20 @@ Consolidador financeiro multi-banco em C++ para Linux e Windows que exibe contas
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[mtproto-store](https://victorgabriel.dev/projetos/mtproto-store)**
+
+Usa o Telegram como armazenamento de objetos ilimitado e fragmentado, sobre MTProto nativo, num único binário Go autossuficiente. Login por conta de usuário, uploads em chunks num canal privado, sem API de bot.
+
+`Go` · `MTProto` · `CLI` · `Static binary` · `AGPL-3.0`
+
+[📄 Página](https://victorgabriel.dev/projetos/mtproto-store) · [💻 GitHub](https://github.com/VictorGabriel7Dev/mtproto-store)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
